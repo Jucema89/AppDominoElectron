@@ -1,10 +1,12 @@
 {
-  "name": "electron-quick-start",
+  "name": "appdomino",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "App Domino para torneos",
   "main": "main.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
   },
   "repository": "https://github.com/electron/electron-quick-start",
   "keywords": [
@@ -14,9 +16,18 @@
     "tutorial",
     "demo"
   ],
-  "author": "GitHub",
+  "author": "Jucema89",
   "license": "CC0-1.0",
+  "build": {
+    "appId": "appdomino",
+    "win": {
+      "target": "NSIS",
+      "icon": "assets/icons/win/icon.ico"
+    }
+  },
   "devDependencies": {
-    "electron": "^9.1.0"
-  }
+    "electron": "^7.3.2",
+    "electron-builder": "^22.7.0"
+  },
+  "dependencies": {}
 }

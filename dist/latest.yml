@@ -1,0 +1,8 @@
+version: 1.0.0
+files:
+  - url: appdomino-Setup-1.0.0.exe
+    sha512: RP+IgAWstpdIpHrs0K7ikq0/1HbKjJdmBIbXj9Okkso4QCCeh8jb3elnreOhUat+hvM70CQgK17cqhZM8+3XPQ==
+    size: 53384806
+path: appdomino-Setup-1.0.0.exe
+sha512: RP+IgAWstpdIpHrs0K7ikq0/1HbKjJdmBIbXj9Okkso4QCCeh8jb3elnreOhUat+hvM70CQgK17cqhZM8+3XPQ==
+releaseDate: '2020-10-01T07:27:54.296Z'

@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+appId: appdomino
+win:
+  target: NSIS
+  icon: assets/icons/win/icon.ico
+electronVersion: 7.3.3
