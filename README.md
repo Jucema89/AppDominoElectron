@@ -1,10 +1,7 @@
 # Electron App Domino
+Aplicacion para gestion de torneos de domino lista para compilar en electron y transformarla en una app de escritorio.
 
-**Clone and run for a quick way to see Electron in action.**
-
-This is a minimal Electron application based on the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start) within the Electron documentation.
-
-**Use this app along with the [Electron API Demos](https://electronjs.org/#get-started) app for API code examples to help you get started.**
+![Instalacion](https://ibb.co/gDPrQtq)
 
 A basic Electron application needs just these files:
 
@@ -14,12 +11,12 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components within the [Quick Start Guide](https://electronjs.org/docs/tutorial/quick-start).
 
-## To Use
+## Como usarla
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
 ```bash
-# Clone this repository
+# Clona el repos
 git clone https://github.com/electron/electron-quick-start
 # Go into the repository
 cd electron-quick-start
@@ -30,8 +27,7 @@ npm start
 ```
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-## Resources for Learning Electron
+## Recursos de Electron Js
 
 - [electronjs.org/docs](https://electronjs.org/docs) - all of Electron's documentation
 - [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - sample starter apps created by the community
@@ -43,3 +39,16 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+
+Pics:
+https://ibb.co/RzB6f5d
+https://ibb.co/C1cb3K0
+https://ibb.co/6HvwxLV
+https://ibb.co/P5YqFSM
+https://ibb.co/G2XqNfT
+https://ibb.co/Vv6SzL4
+https://ibb.co/X3NSSW4
+https://ibb.co/hDPn07m
+https://ibb.co/CtX4hpJ
+https://ibb.co/hfqcwgT
+https://ibb.co/gDPrQtq
