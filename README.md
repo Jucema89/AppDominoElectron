@@ -16,8 +16,9 @@ Instalador Windows: https://github.com/Jucema89/AppDominoElectron/tree/main/dist
 - Base de datos local Sincronizada a servidor remoto
 
 ## Como usarla
+Video de presentacion y muestra de funcionalidades de la app.
+[![ScreenShot](https://i.imgur.com/ca3s8Jm.png)](http://youtu.be/vt5fpE0bzSY)
 
-[![]({https://imgur.com/ca3s8Jm})]({https://www.youtube.com/watch?v=DVi3WX_b5P8&ab_channel=JuliocesarmartinezDaza} "Video Demostracion")
 
 ## Vistas Previas
 
@@ -37,3 +38,12 @@ npm install
 # Run the app
 npm run main.js
 ```
+
+## Para tener presente
+
+- En esta app use Electron Js su quick start; una solucion para crear apps multiplataforma rapidamente:  https://github.com/electron/electron-quick-start
+- El Codigo dentro de la carpeta app es la distribucion compilada que genera Angular, no es el core de la app en si.
+- Las Bases de datos sincronizadas son CouchDB (BD remota) & PouchDb (BD Local) https://docs.couchdb.org/en/stable/  https://pouchdb.com/guides/
+- Para produccion desarrolle un servidor de correos con NodeJs usando: https://nodemailer.com/about/
+
+Gracias por leer, Exito en tu codigo! :smile:
