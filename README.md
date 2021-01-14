@@ -17,7 +17,7 @@ Instalador Windows: https://github.com/Jucema89/AppDominoElectron/tree/main/dist
 
 ## Como usarla
 Video de presentacion y muestra de funcionalidades de la app.
-[![ScreenShot](https://i.imgur.com/ca3s8Jm.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](https://i.imgur.com/ca3s8Jm.png)](https://www.youtube.com/watch?v=DVi3WX_b5P8&feature=youtu.be&ab_channel=JuliocesarmartinezDaza)
 
 
 ## Vistas Previas
